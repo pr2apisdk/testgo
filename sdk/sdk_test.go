@@ -1,4 +1,4 @@
-package testgo
+package sdk
 
 import(
 	"os"
