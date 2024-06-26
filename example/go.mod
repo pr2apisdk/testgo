@@ -1,5 +1,5 @@
-module github.com/pr2apisdk/testgo/example
+module main
 
 go 1.17
 
-require github.com/pr2apisdk/testgo/sdk v0.0.2
+require github.com/pr2apisdk/testgo v0.0.3
